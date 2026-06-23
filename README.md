@@ -1,3 +1,5 @@
+<img width="942" height="576" alt="Image" src="https://github.com/user-attachments/assets/5a9f3070-f51b-4b54-bf2f-c44d62e7413a" />
+
 # Age Calculator
 
 A lightweight, client-side age calculator built with vanilla HTML, CSS, and JavaScript. Users enter their birthdate and instantly receive their exact age in years, with a clean and friendly user interface.
