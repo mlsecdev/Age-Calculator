@@ -8,7 +8,7 @@ A lightweight, client-side age calculator built with vanilla HTML, CSS, and Java
 
 ## Demo
 
-Live preview: [mlsecdev.github.io/Age-Calculator](https://mlsecdev.github.io/Age-Calculator) *(enable GitHub Pages from repo settings)*
+Live preview: [[mlsecdev.github.io/Age-Calculator](https://mlsecdev.github.io/Age-Calculator) 
 
 ---
 
